@@ -37,7 +37,7 @@ main {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 267px;
     height: 471px;
 }
 
@@ -51,6 +51,10 @@ main {
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
+}
+
+#redes-sociais img:active {
+    transform: scale(50%);
 }
 
 #redes-sociais img:hover {
